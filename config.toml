@@ -1,0 +1,4 @@
+baseURL = 'http://wildlifeutm.org/'
+languageCode = 'es-mx'
+title = 'wildlife'
+theme = 'ananke'
