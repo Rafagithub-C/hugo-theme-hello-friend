@@ -1,4 +1,4 @@
-baseURL = 'http://wildlifeutm.org/'
+baseURL = 'http://example.org/'
 languageCode = 'es-mx'
 title = 'wildlife'
 theme = 'ananke'
